@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... building financial analytics models in python.
 - 📫 How to reach me ... https://www.linkedin.com/in/gabriel-r-schneier-9b4264126/
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ... my dogs name is Java like the coding language.
+- ⚡ Fun fact: ... 
 
 <!---
 grschneier/grschneier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
