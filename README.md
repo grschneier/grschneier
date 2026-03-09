@@ -32,7 +32,7 @@ Data is just the starting point — the real work is figuring out what to *do* w
 
 **[LinkedIn ↗](https://www.linkedin.com/in/gabriel-r-schneier-9b4264126/)** 
 
-**[Tableau Public ↗](https://public.tableau.com/app/profile/gabriel.schneier/vizzes]**
+**[Tableau Public ↗](https://public.tableau.com/app/profile/gabriel.schneier/vizzes)**
 
 ---
 
