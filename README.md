@@ -1,4 +1,5 @@
 # grschneier
+— he/him
 ```
 turning raw data into something that actually matters
 ```
@@ -29,8 +30,9 @@ Data is just the starting point — the real work is figuring out what to *do* w
 
 ### find me
 
-**[LinkedIn ↗](https://www.linkedin.com/in/gabriel-r-schneier-9b4264126/)** — he/him
-**[Tableau Public ↗]([https://public.tableau.com/app/profile/gabriel.schneier/vizzes])**
+**[LinkedIn ↗](https://www.linkedin.com/in/gabriel-r-schneier-9b4264126/)** 
+
+**[Tableau Public ↗](https://public.tableau.com/app/profile/gabriel.schneier/vizzes]**
 
 ---
 
