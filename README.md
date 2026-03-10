@@ -4,7 +4,7 @@
 turning raw data into something that actually matters
 ```
 
-**@grschneier** — data analyst with a finance brain and a builder's itch.
+**@grschneier** — data analyst
 
 ---
 
